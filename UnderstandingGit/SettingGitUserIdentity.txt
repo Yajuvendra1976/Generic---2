@@ -1,0 +1,9 @@
+# To set your account's default identity for particular repository or for all repositories
+# To set identity for only current repository we can skip --global parameter
+# If any identity related error occurs during git push etc.
+
+
+
+F:\WorkSpace\GIT\GenericContents>git config --global user.email "yajuvendra_it@yahoo.com"
+
+F:\WorkSpace\GIT\GenericContents>git config --global user.name "Yajuvendra1976"
